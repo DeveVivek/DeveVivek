@@ -9,6 +9,8 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 * 🌍  I'm based in India
 * ✉️  You can contact me at [codexvivek@gmail.com](mailto:codexvivek@gmail.com)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Richárd+Szilágyi.;I+write+software+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
+
 ### Skills
 
 <p align="left">
