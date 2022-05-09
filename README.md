@@ -10,7 +10,7 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 * ✉️  You can contact me at [codexvivek@gmail.com](mailto:codexvivek@gmail.com)
 * 🤔 I'm curious to learn about **artificial intelligence**, **data science** and **blockchain technologies**.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Vivek+Kumar.;Love+to+write+code+&+create+websites.;Think.+Act.+Evaluate.+Improve.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Vivek+Kumar.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
 
 ### Skills
 
