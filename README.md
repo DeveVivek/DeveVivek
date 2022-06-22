@@ -43,7 +43,8 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100013781257658" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/DeveVivek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vivekkumar_._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vivek-kumar-27a875233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/codexvivek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+---
+[![](https://visitcount.itsvg.in/api?id=sunil9813&icon=0&color=0)](https://visitcount.itsvg.in)
 ### Badges
 
 <b>My GitHub Stats</b>
