@@ -11,12 +11,7 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 * 🤔 I'm curious to learn about **artificial intelligence**, **cryptography** and **blockchain technologies**.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Vivek+Kumar.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
-![](https://github-readme-stats.vercel.app/api?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sunil9813&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=devevivek&icon=0&color=0)](https://visitcount.itsvg.in)
 ### Skills
 
 <p align="left">
@@ -44,12 +39,12 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=devevivek&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100013781257658" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/DeveVivek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vivekkumar_._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vivek-kumar-27a875233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/codexvivek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ---
-[![](https://visitcount.itsvg.in/api?id=sunil9813&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=devevivek&icon=0&color=0)](https://visitcount.itsvg.in)
 ### Badges
 
 <b>My GitHub Stats</b>
