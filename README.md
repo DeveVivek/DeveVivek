@@ -5,12 +5,12 @@ Full-Stack Web Developer.
 ------------------------
 
 I'm a second year CSIT(IET) student and a full-stack web developer. Love to write code and improve my skills.
-Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving a complex and challenging real-world problems.
 
 
 * 🌍  I'm based in **India**.
 * ✉️  You can contact me at [code.vivekkumar@gmail.com](mailto:code.vivekkumar@gmail.com)
-* 🤔 I'm curious to learn about **artificial intelligence**, **cryptography** and **blockchain technologies**.
+* 🤔  I'm curious to learn about **artificial intelligence**, **cryptography** and **blockchain technologies**.
+*    Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving a complex and challenging real-world problems.    
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Vivek+Kumar.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
 
