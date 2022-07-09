@@ -59,5 +59,3 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 
 ![](https://komarev.com/ghpvc/?username=devevivek)
 
-
-.
