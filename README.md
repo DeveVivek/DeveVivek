@@ -6,7 +6,6 @@ Full-Stack Web Developer.
 
 I'm a second year CSIT(IET) student and a full-stack web developer. Love to write code and improve my skills.
 
-
 * 🌍  I'm based in **India**.
 * ✉️  You can contact me at [code.vivekkumar@gmail.com](mailto:code.vivekkumar@gmail.com)
 * 🤔  I'm curious to learn about **artificial intelligence**, **cryptography** and **blockchain technologies**.
