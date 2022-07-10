@@ -46,7 +46,6 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 
 ### Badges
 
-Hi
 
 <b>My GitHub Stats</b>
 
