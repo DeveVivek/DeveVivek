@@ -12,7 +12,6 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Vivek+Kumar.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
-
 ### Skills
 
 <p align="left">
