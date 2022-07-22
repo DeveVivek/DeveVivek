@@ -1,7 +1,7 @@
 Hi 👋 My name is Vivek Kumar
 ============================
 
-Full-Stack Web Developer.
+Full-Stack Developer.
 ------------------------
 
 I'm a second year CSIT(IET) student and a full-stack web developer. Love to write code and improve my skills.
