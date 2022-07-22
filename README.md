@@ -19,11 +19,11 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 ```js
 const tinspham = {
   pronouns: "He" | "Him",
-  name: "Tin, Pham Van",
-  location: "Da Nang city, Vietnam",
-  language: ["Vietnamese", "English"],
-  education: "B.S in Software Engineer from Duy Tan University",
-  major: "Front-end Developer"
+  name: "Vivek Kumar",
+  location: "Bareilly, UP , India",
+  language: ["Hindi", "English"],
+  education: "B.Tech in CSIT from MJPRU",
+  major: "Full-Stack Developer"
 };
 ```
 
