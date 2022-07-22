@@ -17,7 +17,7 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 ### A little more about me...
 
 ```js
-const tinspham = {
+const devevivek = {
   pronouns: "He" | "Him",
   name: "Vivek Kumar",
   location: "Bareilly, UP , India",
