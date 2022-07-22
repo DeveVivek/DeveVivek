@@ -12,16 +12,23 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Vivek+Kumar.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
-### Skills
 
+
+### A little more about me...
+
+```js
 const tinspham = {
   pronouns: "He" | "Him",
-  name: "Vivek Kumar",
-  location: "Bareilly, UP,  India",
-  language: ["Hindi", "English"],
-  education: "B.Tech in CSIT from MJPRU",
-  major: "Full-Stack Developer"
+  name: "Tin, Pham Van",
+  location: "Da Nang city, Vietnam",
+  language: ["Vietnamese", "English"],
+  education: "B.S in Software Engineer from Duy Tan University",
+  major: "Front-end Developer"
 };
+```
+
+### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
