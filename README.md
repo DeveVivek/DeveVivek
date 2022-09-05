@@ -4,7 +4,7 @@ Hi 👋 My name is Vivek Kumar
 Full-Stack Developer.
 ------------------------
 
-I'm a third year CSIT(IET) student and a full-stack web developer. Love to write code and improve my skills.
+I'm a third year CSIT(IET) student and a full-stack developer. Love to write code and improve my skills.
 
 * 🌍  I'm based in **India**.
 * ✉️  You can contact me at [code.vivekkumar@gmail.com](mailto:code.vivekkumar@gmail.com)
