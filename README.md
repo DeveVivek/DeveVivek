@@ -34,14 +34,16 @@ const devevivek = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/REACTJS-%23007ACC.svg?&style=flat&logo=reactjs&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/NEXTJS-%23007ACC.svg?&style=flat&logo=nextjs&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
+![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
 
 <!-- 
 Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
