@@ -9,7 +9,7 @@ I'm a third year CSIT(IET) student and a full-stack developer. Love to write cod
 * 🌍  I'm based in **India**.
 * ✉️  You can contact me at [code.vivekkumar@gmail.com](mailto:code.vivekkumar@gmail.com)
 * 🤔  I'm curious to learn about **artificial intelligence**, **cryptography** and **blockchain technologies**.
-* Founder @ [CodeHustlers](https://codehustlers.vercel.app) 
+* 🧑‍💻  Founder @ [CodeHustlers](https://codehustlers.vercel.app) 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Vivek+Kumar.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
 
