@@ -27,7 +27,3 @@ A 3rd-year student pursuing Bachelors in Computer science & Information technolo
 </p>
 
 <hr>
-
-<p align="center">
-  <img src="https://github.com/DeveVivek/DeveVivek/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
