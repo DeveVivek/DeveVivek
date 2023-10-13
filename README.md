@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Vivek Kumar</h1>
 <h5 align="center">
-A 3rd-year student pursuing Bachelors in Computer science & Information technology from MJP Rohilkhand University Bareilly. I am a JavaScript enthusiast, Web developer, and a Believer. 
+A final year student pursuing Bachelors in Computer science & Information technology from MJP Rohilkhand University Bareilly. I am a JavaScript enthusiast, Web developer, and a Believer. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeveVivek&label=Profile%20views&color=0e75b6&style=flat" alt="DeveVivek" /> </p>
 <p>
